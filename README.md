@@ -1,6 +1,6 @@
 Hello World!
 
 Lorem A
-Lorem B
+Lorem B Lorem C
 
 Lorem D
